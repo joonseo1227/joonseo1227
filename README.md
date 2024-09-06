@@ -1,5 +1,10 @@
 <h4 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=&size=32&duration=3000&pause=10&color=FFFFFF&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Joonseo+Jung)](https://git.io/typing-svg">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Joonseo+Jung" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Joonseo+Jung" />
+</picture>
+
 </h4>
 
 <p align="center">
